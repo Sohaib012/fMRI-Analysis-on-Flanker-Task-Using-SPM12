@@ -5,7 +5,7 @@ This repository contains code for the fMRI 1st level Analysis on Flanker Dataset
 - Flanker Task
 - Preprocessing: Realignment, Slice Time Correction, Co-registration, Segmentation, Normalization, Smoothing.
 - 1st level analysis (Checking the Increase in bold signal when the subkect was shown an incongurent task)
-- - Using P value statistic to ensure confidence of not obtaining False Positive
+- Using P value statistic to ensure confidence of not obtaining False Positive
 
 ## Requirements
 
@@ -17,7 +17,7 @@ This repository contains code for the fMRI 1st level Analysis on Flanker Dataset
 ## Installation
 
  **SPM12**
-   - Follow the instructions in the [SP12 Package]([(https://www.fil.ion.ucl.ac.uk/spm/software/download/)]) to install SPM12.
+   - Follow the instructions in the [SP12 Package](https://www.fil.ion.ucl.ac.uk/spm/software/download/) to install SPM12.
 
   **Flanker Task**
   - Obtained from [Openfmri.org](https://openfmri.org/s3-browser/?prefix=ds000001/ds000001_R1.0.0).
