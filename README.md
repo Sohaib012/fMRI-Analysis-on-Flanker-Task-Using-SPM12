@@ -20,7 +20,7 @@ This repository contains code for the fMRI 1st level Analysis on Flanker Dataset
    - Follow the instructions in the [SP12 Package](https://www.fil.ion.ucl.ac.uk/spm/software/download/) to install SPM12.
 
   **Flanker Task**
-  - Obtained from [Openfmri.org](https://openfmri.org/s3-browser/?prefix=ds000001/ds000001_R1.0.0).
+  - Obtained from [Openfmri.org Flanker Task](https://openfmri.org/s3-browser/?prefix=ds000001/ds000001_R1.0.0).
 
 ## Usage
 
